@@ -15,3 +15,6 @@ This is the project to generate the troop randomly.
 2. Input total number of army.
 3. Click the "Generate Troops" button. Then you can see the Troops generated randomly.
 
+## Live Test
+1. Go to the following url(https://8zih6d.csb.app/)
+2. Please repeat Test(above steps)
