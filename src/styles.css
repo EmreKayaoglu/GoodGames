@@ -1,0 +1,63 @@
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+  background-image: url(./res/img/bg.png);
+  background-color: #cab596;
+  height: 100vh;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 10px;
+  width: 420px;
+  margin: auto;
+}
+.textLeft {
+  text-align: left;
+}
+.textRight {
+  text-align: right;
+}
+.required {
+  color: #781602;
+  font-weight: 700;
+  font-size: 16px;
+}
+h1 {
+  font-size: 60px;
+  line-height: 60px;
+  color: #f1ebe5;
+  text-shadow: 0 14px 9px #c4b59d, 0 -2px 1px #fff;
+  letter-spacing: -4px;
+}
+h3 {
+  font-size: 20px;
+  line-height: 20px;
+  color: #3c2a21;
+  letter-spacing: -1px;
+}
+.troopRow {
+  border: 1px solid #121212;
+  margin-top: -1px;
+  padding: 4px;
+}
+.mts {
+  margin-top: 10px;
+}
+.mls {
+  margin-left: 10px;
+}
+.mrs {
+  margin-right: 10px;
+}
+.troopTable {
+  width: 100%;
+  margin-top: 20px;
+  border: 2px solid #eeeeee;
+}
+.troopTable tr th,
+.troopTable tr td {
+  padding: 4px 0;
+  border: 1px solid #eeeeee;
+}
