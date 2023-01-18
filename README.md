@@ -16,5 +16,5 @@ This is the project to generate the troop randomly.
 3. Click the "Generate Troops" button. Then you can see the Troops generated randomly.
 
 ## Live Test
-1. Go to the following url(https://8zih6d.csb.app/)
+1. Go to the following url: https://8zih6d.csb.app/ (this url can't be work after some days)
 2. Please repeat Test(above steps)
